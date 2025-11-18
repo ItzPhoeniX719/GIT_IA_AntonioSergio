@@ -11,6 +11,10 @@ Los comandos utilizados hasta ahora son:
 
 5. Clonar repositorio (Alumno 2)
 
-git clone https://github.com/ItzPhoeniX719/GIT_IA_AntonioSergio
+git clone https://github.com/ItzPhoeniX719/GIT_IA_AntonioSergio: este comando se utiliza para hacer un clon de un repositorio remoto para tener ese repositorio en tu máquina local.
 
-Este comando se utiliza para hacer un clon de un repositorio remoto para tener ese repositorio en tu máquina local.
+7. Creación de ramas (ambos)
+git branch: para listar las ramas y ver en cuál estamos situada
+git branch [nombre-de-rama]: para crear una rama con el nombre especificado
+git checkout [nombre-de-rama]: para cambiar a la rama con el nombre especificado
+git checkout -b [nombre-de-rama]: para crear y al mismo tiempo cambiar a la nueva rama creada
