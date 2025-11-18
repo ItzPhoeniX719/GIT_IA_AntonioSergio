@@ -18,3 +18,4 @@ git branch: para listar las ramas y ver en cuál estamos situada
 git branch [nombre-de-rama]: para crear una rama con el nombre especificado
 git checkout [nombre-de-rama]: para cambiar a la rama con el nombre especificado
 git checkout -b [nombre-de-rama]: para crear y al mismo tiempo cambiar a la nueva rama creada
+git branch -m [nuevo-nombre]: para renombrar la rama
