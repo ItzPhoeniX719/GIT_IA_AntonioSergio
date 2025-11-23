@@ -20,3 +20,6 @@ git checkout [nombre-de-rama]: para cambiar a la rama con el nombre especificado
 git checkout -b [nombre-de-rama]: para crear y al mismo tiempo cambiar a la nueva rama creada
 git branch -m [nuevo-nombre]: para renombrar la rama
 git diff master [rama-del-alumno]: para comparar las diferencias entre la rama master y la rama del alumno
+
+12. Credenciales
+Usamos el comando git config --global credential.helper store para que la próxima vez que se nos pidan las credenciales estas se guarden y para posteriores push/etc. no nos las vuelvan a pedir.
