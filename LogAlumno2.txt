@@ -1,0 +1,92 @@
+commit 53e97acf3503efa7452cac146ac003a5dd18a364
+Author: Antonio Romero Bonilla <antonio.romerobonilla@alum.uca.es>
+Date:   Sun Nov 23 13:22:01 2025 +0100
+
+    LogAlumno1.txt creado
+
+commit 4f3cdd5e8a1ab9124e05180c16b0fa6c4f8f6b97
+Author: SBaston <sergiojose.bastonlosey@alum.uca.es>
+Date:   Sun Nov 23 13:17:54 2025 +0100
+
+    Añadido el ejercicio 11 al README.md
+
+commit 578a671f2b0a3793ad5849f2b01085f6f6d76960
+Author: A. Romero <101277889+ItzPhoeniX719@users.noreply.github.com>
+Date:   Sun Nov 23 13:08:50 2025 +0100
+
+    Add Git credential storage instructions to README
+    
+    Added instructions for storing Git credentials.
+
+commit ec506836af8839894b76477a478b413538d7a199
+Merge: 1dcae82 cdd614e
+Author: SBaston <sergiojose.bastonlosey@alum.uca.es>
+Date:   Tue Nov 18 12:57:25 2025 +0100
+
+    Merge branch 'master' of https://github.com/ItzPhoeniX719/GIT_IA_AntonioSergio
+
+commit 1dcae8294be15bf93424bb2bb0532ff8bfd84784
+Merge: 7b00806 57b8093
+Author: SBaston <sergiojose.bastonlosey@alum.uca.es>
+Date:   Tue Nov 18 12:48:06 2025 +0100
+
+    Merge branch 'ramaAlumno2' to master
+
+commit cdd614e6149aca7234177361983d45a3b70a0414
+Merge: 7b00806 6f369ef
+Author: Antonio Romero Bonilla <antonio.romerobonilla@alum.uca.es>
+Date:   Tue Nov 18 12:47:12 2025 +0100
+
+    Merge branch 'ramaAlumno1' to master
+
+commit 7b00806f3588936ec9c689a417bab7445aabe722
+Author: A. Romero <101277889+ItzPhoeniX719@users.noreply.github.com>
+Date:   Tue Nov 18 12:43:31 2025 +0100
+
+    Update README.md
+
+commit cb6b4de3d73674551bf117dc342a1583aecd48e0
+Author: A. Romero <101277889+ItzPhoeniX719@users.noreply.github.com>
+Date:   Tue Nov 18 12:42:56 2025 +0100
+
+    Actualizado README.md
+
+commit f27254e791482bf23cf521078b67c4cf27a01dab
+Author: A. Romero <101277889+ItzPhoeniX719@users.noreply.github.com>
+Date:   Tue Nov 18 12:42:01 2025 +0100
+
+    Clarify git clone command and add branch creation instructions
+    
+    Updated README.md to clarify git clone command and added instructions for branch creation.
+
+commit 6f369ef4b00ce9cddff5be4f357360c21dc3ec3e
+Author: Antonio Romero Bonilla <antonio.romerobonilla@alum.uca.es>
+Date:   Tue Nov 18 12:32:35 2025 +0100
+
+    Añadiendo fichero almacen_cli.java
+
+commit 57b8093409ea78f0c164c267b0daab05e94aed86
+Author: SBaston <sergiojose.bastonlosey@alum.uca.es>
+Date:   Tue Nov 18 12:32:16 2025 +0100
+
+    Añadiendo fichero cliente.java
+
+commit 876dd8986a6d42108d5a9643a39ca5fd48d6dfdc
+Author: A. Romero <101277889+ItzPhoeniX719@users.noreply.github.com>
+Date:   Tue Nov 18 12:20:58 2025 +0100
+
+    README.md actualizado (alumno 1)
+    
+    Added steps for repository creation and initialization.
+
+commit b7c6804ffc4b1654448afd3cfc5e7dc3fc451a5f
+Author: SBaston <sergiojose.bastonlosey@alum.uca.es>
+Date:   Tue Nov 18 11:49:51 2025 +0100
+
+    Añadido README.md
+
+commit ddcc7bc93322a677559bee588bbff81f88b075f3
+Author: Antonio Romero Bonilla <antonio.romerobonilla@alum.uca.es>
+Date:   Tue Nov 18 11:28:20 2025 +0100
+
+    Inicialización del repositorio con archivos Farmacia
